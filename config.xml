@@ -11,9 +11,4 @@
         Julio Pinheiro
     </author>
 
-
-
-    <!--<preference name="orientation" value ="portrait" /> para previnir rotação de tela-->
-    <!--<preference name="fullscreen" value ="true"> para full screen-->
-    <gap: plataform name="android" />
 </widget>
